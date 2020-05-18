@@ -34,7 +34,7 @@ When you find your target detector, click it to execute. A summary of diagnostic
 
 ![](app-slow.png)
 
-In diagnostic details page, you can change the diagnostic time range with the controller at right top corner. To see more metrics or logs, toggle each diagnostic.
+In diagnostic details page, you can change the diagnostic time range with the controller at right top corner. To see more metrics or logs, toggle each diagnostic. There could be a 15-minute delay for metrics and logs.
 
 ![](app-slow-detail.png)
 
